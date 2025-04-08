@@ -1,8 +1,8 @@
-<p align = center ><img src="https://imgur.com/a/oEQxPdV"></p>
+<p align = center ><img src="https://i.imgur.com/1uV1NUY.png"></p>
 
 <div>
 
-<img align="right" width="400" alt="lowpoly" src="https://imgur.com/a/PvVHdew"/>
+<img align="right" width="400" alt="lowpoly" src="https://i.imgur.com/dwNSlv1.png"/>
 
 <h2> / about me /</h2>
 
